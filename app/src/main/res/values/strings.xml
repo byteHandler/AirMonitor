@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Air Monitor</string>
+    <string name="title_home">AQI</string>
+    <string name="title_gas">Gas</string>
+    <string name="title_lpg">LPG</string>
+    <string name="title_dht">T/H</string>
+    <string name="title_activity_historic_data">historic_data</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+</resources>

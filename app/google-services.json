@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "667303330345",
+    "firebase_url": "https://aqimonitor.firebaseio.com",
+    "project_id": "aqimonitor",
+    "storage_bucket": "aqimonitor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:667303330345:android:1d0a1f641f278a74",
+        "android_client_info": {
+          "package_name": "nik.sociomind.airmonitor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "667303330345-j4hoij1b8cvmfgtjobr1it1lss4acrie.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "nik.sociomind.airmonitor",
+            "certificate_hash": "4cffe78424691de67a27ee285753a75c923b74f6"
+          }
+        },
+        {
+          "client_id": "667303330345-fabc10lkcuo1ekoumhpn5hk7r5rs2h0t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-70UWV83X6qM5KDKSRIp0a8PqrFz3iWo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "667303330345-fabc10lkcuo1ekoumhpn5hk7r5rs2h0t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
